@@ -1,0 +1,5 @@
+{
+    "ex"    : "../ex2.py",
+    "input" : "'thisisstring'\n",
+    "output": "capitalize\ncenter\ncount\ndecode\nencode\nendswith\nexpandtabs\nfind\nformat\nindex\nisalnum\nisalpha\nisdigit\nislower\nisspace\nistitle\nisupper\njoin\nljust\nlower\nlstrip\npartition\nreplace\nrfind\nrindex\nrjust\nrpartition\nrsplit\nrstrip\nsplit\nsplitlines\nstartswith\nstrip\nswapcase\ntitle\ntranslate\nupper\nzfill\n"
+}

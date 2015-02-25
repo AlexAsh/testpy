@@ -1,0 +1,5 @@
+{
+    "ex"    : "../ex2.py",
+    "input" : "(1, ['hex', 'oct'], ())\n",
+    "output": "count\nindex\n"
+}

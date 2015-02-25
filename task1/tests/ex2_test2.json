@@ -1,0 +1,5 @@
+{
+    "ex"    : "../ex2.py",
+    "input" : "[5, 6, 7]\n",
+    "output": "append\ncount\nextend\nindex\ninsert\npop\nremove\nreverse\nsort\n"
+}

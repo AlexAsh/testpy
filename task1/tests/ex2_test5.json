@@ -1,0 +1,5 @@
+{
+    "ex"    : "../ex2.py",
+    "input" : "{}\n",
+    "output": "clear\ncopy\nfromkeys\nget\nhas_key\nitems\niteritems\niterkeys\nitervalues\nkeys\npop\npopitem\nsetdefault\nupdate\nvalues\nviewitems\nviewkeys\nviewvalues\n"
+}

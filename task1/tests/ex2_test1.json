@@ -1,0 +1,5 @@
+{
+    "ex"    : "../ex2.py",
+    "input" : "2\n",
+    "output": "bit_length\nconjugate\ndenominator\nimag\nnumerator\nreal\n"
+}

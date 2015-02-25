@@ -12,5 +12,5 @@ for testFile in testFiles:
 		testData = json.load(f)
 		ex = Popen(testData["ex"], stdin = PIPE, stdout = PIPE)
 		output = ex.communicate(testData['input'])[0]
-		print '.' if output == testData['output'] else 'F',
+		print 'passed ' + testFile if output == testData['output'] else '---> failed ' + testFile
 
