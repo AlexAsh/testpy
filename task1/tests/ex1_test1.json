@@ -1,0 +1,5 @@
+{
+    "ex"    : "../ex1.py",
+    "input" : "'mail'\n123\n",
+    "output": "mail\n"
+}
